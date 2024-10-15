@@ -1,0 +1,1 @@
+删去原有的plugin/aireply文件夹下所有文件，将main.go复制进去
